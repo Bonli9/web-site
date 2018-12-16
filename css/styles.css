@@ -18,6 +18,8 @@ p {
   background-color: red;
   width: 200px;
   height: 200px;
+  position: relative;
+  left: 300px;
 }
 
 .bottomContainer {
