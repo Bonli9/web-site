@@ -101,4 +101,6 @@ Temporary Items
 *.class
 
 
-
+#images
+*.jpeg
+*.png
